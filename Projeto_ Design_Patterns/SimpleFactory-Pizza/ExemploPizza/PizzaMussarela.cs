@@ -1,10 +1,10 @@
-﻿namespace SimpleFactory_Pizza
+﻿namespace SimpleFactory_Pizza.ExemploPizza
 {
-    public class PizzaCalabreza : Pizza
+    public class PizzaMussarela : Pizza
     {
-        public PizzaCalabreza()
+        public PizzaMussarela()
         {
-            Nome = "Pizza de Calabreza";
+            Nome = "Pizza de Mussarela";
         }
         public override void Preparar()
         {

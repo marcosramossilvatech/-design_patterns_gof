@@ -1,4 +1,4 @@
-﻿namespace SimpleFactory_Pizza
+﻿namespace SimpleFactory_Pizza.ExemploPizza
 {
     public sealed class PizzaSimpleFactory
     {
